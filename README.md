@@ -1,2 +1,2 @@
 # wasdgamesforwasdclick
-All the Games Placed here are obfuscated for website Game Assets Security.
+All the Games Placed here are for website Game Assets.
